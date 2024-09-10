@@ -3,6 +3,6 @@ int main(int argc, char const *argv[])
 {
 	//master
     printf("hello world\n");
-	//swch
+	//seong-wook yoo
 	return 0;
 }
